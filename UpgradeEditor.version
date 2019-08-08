@@ -1,11 +1,11 @@
 {
     "NAME":"Upgrade Editor",
     "URL":"https://forum.kerbalspaceprogram.com/index.php?/topic/167548-131-upgrade-editor-choose-upgrades-for-each-part-in-vab-or-sph/",
-    "DOWNLOAD":"https://github.com/zer0Kerbal/UpgradesUIExtensions/releases/latest",
+    "DOWNLOAD":"https://github.com/zer0Kerbal/UpgradeEditor/releases/latest",
     "GITHUB":
     {
         "USERNAME":"zer0Kerbal,NotTheRealRMS",
-        "REPOSITORY":"Upgrade Editor",
+        "REPOSITORY":"UpgradeEditor",
         "ALLOW_PRE_RELEASE":false,
     },
     "VERSION":
