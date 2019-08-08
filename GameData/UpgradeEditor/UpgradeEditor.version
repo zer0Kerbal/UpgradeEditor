@@ -1,0 +1,36 @@
+{
+    "NAME":"Upgrade Editor",
+    "URL":"https://forum.kerbalspaceprogram.com/index.php?/topic/167548-131-upgrade-editor-choose-upgrades-for-each-part-in-vab-or-sph/",
+    "DOWNLOAD":"https://github.com/zer0Kerbal/UpgradesUIExtensions/releases/latest",
+    "GITHUB":
+    {
+        "USERNAME":"zer0Kerbal,NotTheRealRMS",
+        "REPOSITORY":"Upgrade Editor",
+        "ALLOW_PRE_RELEASE":false,
+    },
+    "VERSION":
+    {
+        "MAJOR":0,
+        "MINOR":3,
+        "PATCH":4,
+        "BUILD":1
+    },
+    "KSP_VERSION":
+    {
+        "MAJOR":1,
+        "MINOR":7,
+        "PATCH":3
+    },
+    "KSP_VERSION_MIN":
+    {
+        "MAJOR":1,
+        "MINOR":3,
+        "PATCH":1
+    },
+    "KSP_VERSION_MAX":
+    {
+        "MAJOR":1,
+        "MINOR":7,
+        "PATCH":9
+    }
+} 

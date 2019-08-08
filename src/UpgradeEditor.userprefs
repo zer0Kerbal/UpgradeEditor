@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="UpgradeEditor/ModuleUpgradeEditor.cs">
+    <Files>
+      <File FileName="UpgradeEditor/RDColoredUpgradeIcon.cs" Line="1" Column="1" />
+      <File FileName="UpgradeEditor/Properties/AssemblyInfo.cs" Line="36" Column="38" />
+      <File FileName="UpgradeEditor/ModuleUpgradeEditor.cs" Line="128" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
