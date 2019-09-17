@@ -30,4 +30,11 @@
 *.exe
 *.out
 *.app
-UpgradeEditor-0.3.4.1.zip
+*.zip
+*.rar
+*.7z
+*.ide
+src\.vs\
+.vs\
+UpgradeEditor\bin\
+UpgradeEditor\obj\
