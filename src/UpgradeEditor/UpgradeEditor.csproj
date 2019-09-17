@@ -7,11 +7,11 @@
     <ProjectGuid>{BBB8F240-E793-4E7F-B496-86067A0F9D0D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UpgradesGUI</RootNamespace>
+    <RootNamespace>UpgradeEditor</RootNamespace>
     <AssemblyName>UpgradeEditor</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <ReleaseVersion>0.3.2</ReleaseVersion>
+    <ReleaseVersion>0.3.4</ReleaseVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -37,8 +37,8 @@
     <Reference Include="UnityEngine">
       <HintPath>$(DevDir)\KSP_x64_Data\Managed\UnityEngine.dll</HintPath>
     </Reference>
-    <Reference Include="System.Xml"/>
-    <Reference Include="System"/>
+    <Reference Include="System.Xml" />
+    <Reference Include="System" />
     <Reference Include="KSPAssets">
       <HintPath>$(DevDir)\KSP_x64_Data\Managed\KSPAssets.dll</HintPath>
     </Reference>
