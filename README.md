@@ -1,3 +1,6 @@
+![zer0Kerbal](https://img.shields.io/badge/KSP%20version-1.3.x-66ccff.svg?style=flat-square) 
+![zer0Kerbal](https://img.shields.io/badge/MOD%20version-0.3.4.1-orange.svg?style=flat-square)
+
 # Upgrade Editor for Kerbal Space Program 1.3.1
 
 This plugin is aimed at making the part/module upgrades feature introduced in 1.2 about as flexible as RealFuels engine
